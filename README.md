@@ -2,6 +2,10 @@
 
 A modern web application built with React that allows users to track cryptocurrency prices, market data, and detailed information about various cryptocurrencies using the CoinGecko API.
 
+## Live Demo
+
+Check out the live application: [Cryptocurrency Tracker](https://crypto-search-rho.vercel.app/)
+
 ## Features
 
 - Real-time cryptocurrency price tracking
